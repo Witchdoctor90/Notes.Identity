@@ -66,9 +66,9 @@ This project operates as a standalone identity management service implementing u
 ## Setup and Running
 
 1. Clone the repository:
-   
-` git clone https://github.com/Witchdoctor90/Notes.Identity.git `
-` cd Notes.Identity `  
+      
+   ` git clone https://github.com/Witchdoctor90/Notes.Identity.git `  
+   ` cd Notes.Identity `  
 
 2. Configure database connection and JWT settings in `appsettings.json`.
 3. Build and run the identity server:
